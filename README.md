@@ -10,7 +10,7 @@ Base values and a revert button are available below modified values
 A common use of custom language files is showing the full description for items and equipment, the Tooltip options make this easy. Simply open Items.txt and Equipment.txt, save, and follow Usage to apply.
 
 # Usage
-* Go to https://xuerian.github.io/RoR2LanguageEditor/ or open downloaded index.html
+* Go to https://kiwi-i.github.io/RoR2LanguageEditor/ or open downloaded index.html
 * Browse for and select one or more language files (Base languages are found in steamapps/common/Risk Of Rain 2/Risk of Rain 2_Data/StreamingAssets/Language/en)
 * *Optional: Apply existing .patch.language file*
 * *Optional: Merge edited \*.txt language files*
